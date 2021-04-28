@@ -1,0 +1,10 @@
+Package: TSMCPCOX
+Type: Package
+Title: Two stage multiple change point detection in Cox models
+Version: 0.1.0
+Author: Bing Wang
+Maintainer: Bing Wang<1522979665@qq.com>
+Description: A and fast two stage method for simultaneous multiple change-points detection and variable selection for the Cox model.
+License: GPL_2
+Encoding: UTF-8
+LazyData: true
